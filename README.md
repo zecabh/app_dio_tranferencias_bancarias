@@ -2,6 +2,8 @@
 
 Criando uma APP de transferências bancárias com .NET
 
+Além do projeto original proposto, foi incluído uma verificação de existência das contas nos módulos de Sacar/Depositar/Transferir. 
+
 
 ## Contato
 
